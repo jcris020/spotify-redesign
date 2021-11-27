@@ -10,7 +10,7 @@ import {
 
 function Sidebar() {
     return (
-        <div className="fixed top-0 z-14 flex flex-col p-4 items-center bg-red/100 
+        <div className="fixed top-0 z-40 flex flex-col p-4 items-center bg-black 
         w-[90px] h-screen space-y-8">
             {/* Sidebar Spotify Logo */}
             <Image 
